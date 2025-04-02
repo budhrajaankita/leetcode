@@ -1,4 +1,4 @@
-# Last updated: 4/1/2025, 11:33:57 PM
+# Last updated: 4/1/2025, 11:34:38 PM
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
         lo = 0
